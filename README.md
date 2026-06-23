@@ -1,2 +1,9 @@
-# waterqualityteam
-A scientific initiative dedicated to water quality improvement through innovative adsorption and filtration technologies for environmental protection and sustainable development.
+# 🌊 Water Quality Research Laboratory
+
+Scientific project focused on water treatment technologies using adsorption, clay minerals, activated carbon, and ZVI systems.
+
+## 🚀 GitHub Pages Website
+This repository hosts a static website deployed via GitHub Pages.
+
+## 📍 Location
+Dulaty University, Taraz, Kazakhstan
