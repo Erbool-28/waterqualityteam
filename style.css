@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f9ff;
+  color: #1a1a1a;
+}
+
+header {
+  background: #0b3d91;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background: #1456b8;
+}
+
+nav a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background: #0b3d91;
+}
+
+section {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #0b3d91;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #0b3d91;
+  color: white;
+}
